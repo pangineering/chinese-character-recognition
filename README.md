@@ -1,1 +1,1 @@
-# chinese-character-recognition
+# Chinese Character Recognition
